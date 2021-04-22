@@ -1,6 +1,4 @@
 # Shahid-flappy-bird
-This repo contains a basic flappy bird game. 
-# Shahid-flappy-bird
 This repo contains a basic flappy bird game.
 **`Documentation`** |
 ------------------- |
