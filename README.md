@@ -31,7 +31,7 @@ $ python main.py
 
 ```
 > For Git bash
-## To play this game type the following command in your terminal 
+#### To play this game type the following command in your terminal 
 ```
 $ git clone https://github.com/Shahid-coder/Shahid-flappy-bird.git
 
