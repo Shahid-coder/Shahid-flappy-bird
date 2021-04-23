@@ -11,13 +11,27 @@ Shahid-flapy-bird was originally developed by shahid
 ## Install
 This project uses pygame module . 
 You can install it by typing the below command. 
+
 ```
 $ pip install pygame
 ```
-To update pygame to the latest version, add `--upgrade` flag to the above
-commands.
+To update pygame to the latest version, add `--upgrade` flag to the above commands.
 ## clone
-To play this game type type the following command in your terminal 
+>For Termux
+```
+$ pkg install git 
+
+$ pkg install python
+
+$ git clone https://github.com/Shahid-coder/Shahid-flappy-bird.git
+
+$ cd Shahid-flappy-bird
+
+$ python main.py
+
+```
+> For Git bash
+## To play this game type the following command in your terminal 
 ```
 $ git clone https://github.com/Shahid-coder/Shahid-flappy-bird.git
 
