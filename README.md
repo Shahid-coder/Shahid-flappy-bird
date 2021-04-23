@@ -23,6 +23,8 @@ $ pkg install git
 
 $ pkg install python
 
+$ pip install pygame
+
 $ git clone https://github.com/Shahid-coder/Shahid-flappy-bird.git
 
 $ cd Shahid-flappy-bird
@@ -31,9 +33,11 @@ $ python main.py
 
 ```
 > For Git bash
-#### To play this game type the following command in your terminal 
+#### To play this game type the following command in your terminal . But remember you have to download python in your system .visit python.org for download . 
 ```
 $ git clone https://github.com/Shahid-coder/Shahid-flappy-bird.git
+
+$ pip install pygame 
 
 $ cd Shahid-flappy-bird
 
