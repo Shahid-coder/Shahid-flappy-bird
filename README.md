@@ -1,7 +1,7 @@
 # Shahid-flappy-bird
 This repo contains a basic flappy bird game.
-**`Documentation`** |
-------------------- |
+# Documentation
+
 [Shahid-flapy-bird](https://github.com/Shahid-coder/Shahid-flappy-bird) is an end-to-end open source project 
 for gaming purpose. It is a comprehensive, flexible game
 that lets you play day and night.
