@@ -1,8 +1,8 @@
 # Shahid-flappy-bird
 This repo contains a basic flappy bird game.
 
-[![Language: python](https://img.shields.io/github/languages/top/shahid-coder/shahid-flappy-bird)](https://github.com/nekohasekai/SagerNet/search?l=python)
-[![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/shahid-flappy-bird)](https://github.com/shahid-coder/shahid-flappy-bird/blob/master/LICENSE)
+[![Language: python](https://img.shields.io/github/languages/top/shahid-coder/shahid-flappy-bird)](https://github.com/nekohasekai/SagerNet/search?l=python)(python.org)
+[![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/shahid-flappy-bird)](https://github.com/shahid-coder/shahid-flappy-bird/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/shahid-coder/shahid-flappy-bird)](https://github.com/shahid-coder/shahid-flappy-bird/graphs/contributors)
 # Documentation
 
@@ -10,7 +10,7 @@ This repo contains a basic flappy bird game.
 for gaming purpose. It is a comprehensive, flexible game
 that lets you play day and night.
 
-Shahid-flapy-bird was originally developed by shahid
+Shahid-flappy-bird was originally developed by shahid
 
 ## Install
 This project uses pygame module . 
