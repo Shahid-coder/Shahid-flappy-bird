@@ -38,5 +38,4 @@ If you want to contribute to Shahid-flappy-bird, be sure to review the
 We use [GitHub issues](https://github.com/Shahid-coder/Shahid-flappy-bird/issues) for
 tracking requests and bugs.
 ## License 
-For license see [License.md](https://github.com/Shahid-coder/Shahid-flappy-bird/blob/main/LICENSE)
-
+For license see [License](https://github.com/Shahid-coder/Shahid-flappy-bird/blob/main/LICENSE)
