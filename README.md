@@ -1,7 +1,7 @@
 # Shahid-flappy-bird
 This repo contains a basic flappy bird game.
 
-[![Language: python](https://img.shields.io/github/languages/top/shahid-coder/shahid-flappy-bird)](python.org)
+[![Language: python](https://img.shields.io/github/languages/top/shahid-coder/shahid-flappy-bird)](https://python.org)
 [![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/shahid-flappy-bird)](https://github.com/shahid-coder/shahid-flappy-bird/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/shahid-coder/shahid-flappy-bird)](https://github.com/shahid-coder/shahid-flappy-bird/graphs/contributors)
 # Documentation
