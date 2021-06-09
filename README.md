@@ -29,7 +29,7 @@ $ git clone https://github.com/Shahid-coder/Shahid-flappy-bird.git
 ```
 
 ```
-$ pip install pygame 
+$ pip install -r "requirements.txt"
 ```
 
 ```
